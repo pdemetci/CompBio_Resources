@@ -12,6 +12,7 @@
 - Ben Raphael (Princeton)  
 - Lior Pachter (CalTech)  
 - Bonnie Berger (MIT)  
+- Debora Marks (Harvard)
 - Jian Ma (CMU)  
 - Maria Chikina (UPitt)  
 - Ziv Bar-Joseph (CMU)  
